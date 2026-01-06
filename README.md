@@ -27,12 +27,12 @@ This repository contains beginner-friendly Python programs created as part of my
 1. Clone the repository:
 '''git clone https://github.com/suhela-solkar/python-basics.git'''
 2. Navigate into the folder:
-'''cd python-basics'''
-3. Run any Python file:
-   '''python calculator.py'''
-   '''python to_do_list.py'''
-   '''python dice_simulator.py'''
-   '''python mad_libs.py'''
+3. cd python-basics
+4. Run any Python file:
+   python calculator.py
+   python to_do_list.py
+   python dice_simulator.py
+   python mad_libs.py
 
     ## Author
 **Suhela Solkar**  
